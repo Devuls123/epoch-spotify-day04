@@ -1,6 +1,6 @@
 # epoch-spotify-day04
 
-# 🎵 Spotify Tracks Dataset – EDA & Data Visualization
+# Spotify Tracks Dataset – EDA & Data Visualization
 
 ## 📌 Project Overview
 
@@ -10,7 +10,7 @@ The analysis was performed using Python, Pandas, Matplotlib, and Seaborn.
 
 ---
 
-## 📂 Dataset Overview
+##  Dataset Overview
 
 The dataset contains information about Spotify tracks along with various audio features and metadata.
 
@@ -31,7 +31,7 @@ The dataset contains information about Spotify tracks along with various audio f
 
 ---
 
-## 🔍 Exploratory Data Analysis
+##  Exploratory Data Analysis
 
 The following EDA steps were performed:
 
@@ -115,7 +115,7 @@ The visualization examines the relationship between danceability and energy, hel
 
 ---
 
-## 💡 Overall Conclusions
+##  Overall Conclusions
 
 The analysis provides an overview of Spotify tracks based on their metadata and audio characteristics. The visualizations demonstrate that music tracks vary considerably in terms of popularity, danceability, energy, and other audio features.
 
@@ -125,7 +125,7 @@ Overall, the analysis demonstrates how Exploratory Data Analysis and effective v
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python
 * Pandas
@@ -136,7 +136,7 @@ Overall, the analysis demonstrates how Exploratory Data Analysis and effective v
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```text
 spotify-eda-visualization/
